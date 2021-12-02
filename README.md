@@ -1,11 +1,10 @@
-### Hi there, I'm Jacobo Azmani [jacobo87] 👋
+### Hi there, I'm Jacobo Azmani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Network Systems Administrator
 
 I am a fast learner, who enjoys working in a team.
 
 Currently i am working on the following projects:
-- <a href="https://jacoboazmani.org">Jacobo Azmani</a>
 - <a href="https://commandgit.es"> CommandGit</a>
 
 
@@ -13,10 +12,11 @@ Currently i am working on the following projects:
 
 - 🧑‍💻 I’m currently learning PHP and JavaScript
 - 👩🏼‍🌾 Nature and animal lover
-- 🎮 League of Legend lover
+- 🎮 League of Legend player
 
 ### Connect with me:
 
+[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://jacoboazmani.org)
 [<img align="left" alt="rikiDalvarez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
