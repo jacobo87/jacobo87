@@ -1,4 +1,4 @@
-### Hi there, I'm Jacobo Azmani [jacobo87] 👋
+### Hi there, I'm Jacobo Azmani, [jacobo87] 👋
 
 Network Systems Administrator
 
