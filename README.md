@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Hi there, I'm Jacobo Azmani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+=======
+### Hi there, I'm Jacobo Azmani, [jacobo87] 👋
+>>>>>>> 9e627c319115aeb8a02970282467a7af56810a70
 
 Network Systems Administrator
 
