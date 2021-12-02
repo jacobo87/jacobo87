@@ -16,7 +16,6 @@ Currently i am working on the following projects:
 
 ### Connect with me:
 
-[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://jacoboazmani.org)
 [<img align="left" alt="Jacobo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
