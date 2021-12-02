@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacobo Azmani</h1>  
-<h3 align="center">Network Systems Administrator I am a fast learner, who enjoys working in a team.</h3>  
+<h3 align="center">Network Systems Administrator</h3>
+<h2 align="center">I am a fast learner, who enjoys working in a team</h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobo87&label=Profile%20views&color=0e75b6&style=flat" alt="jacobo87" /> </p>  
 
