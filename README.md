@@ -7,7 +7,7 @@
 
 Currently i am working on the following projects:
 - <a href="https://commandgit.es"> CommandGit</a>
-- 🔭 I’m currently working on **PHP site**  
+- 🔭 I’m currently working on a **PHP site**  
 
 
 ## Interesting things to know about me:
