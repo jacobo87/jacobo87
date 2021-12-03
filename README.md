@@ -6,7 +6,7 @@
 
 
 Currently i am working on the following projects:
-- <a href="https://commandgit.es"> CommandGit</a>
+- <a href="https://commandgit.es" target="_blank"> CommandGit</a>
 - 🔭 I’m currently working on a **PHP site**  
 
 
