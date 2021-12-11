@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacobo Azmani</h1>  
-<h3 align="center">Network Systems Administrator</h3>
+<h3 align="center">Network and System Administrator</h3>
 <h2 align="center">I am a fast learner, who enjoys working in a team</h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobo87&label=Profile%20views&color=0e75b6&style=flat" alt="jacobo87" /> </p>  
@@ -14,7 +14,6 @@ Currently i am working on the following projects:
 
 - 🧑‍💻 I’m currently learning PHP and JavaScript
 - 👩🏼‍🌾 Nature and animal lover
-- 🎮 League of Legend player
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
