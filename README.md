@@ -8,6 +8,7 @@
 Currently i am working on the following projects:
 - <a href="https://commandgit.es" target="_blank"> CommandGit</a>
 - 🔭 I’m currently working on a **PHP site**  
+- 🌱 I’m currently learning **Front-End Web Development in [General Assembly](https://generalassemb.ly/)** 
 
 
 ## Interesting things to know about me:
