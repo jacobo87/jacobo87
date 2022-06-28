@@ -1,26 +1,28 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
+### <div align="center">I'm Jacobo Azmani, Network Systems Administrator & front-end developer 👨‍💻 working remotely since 2021 🚀</div>
 
-### <div align="center">I'm Jacobo Azmani, Network Systems Administrator & front-end developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
+## Rapidfire
 
-- 🔭 I’m currently working on [Final project GA](https://github.com/Lyanna666/proyecto-final-GA)  
-  
-
-- 🌱 I’m currently learning SQL Server  
-  
-
-<br/>  
-
-
-# 💻 Tech Stack: 
 <table><tr><td valign="top" width="50%">
 
+- 🔭 I’m currently working on [Final project GA](https://github.com/Lyanna666/proyecto-final-GA)
 
+- 🌱 I’m currently learning SQL Server
 
-### Frontend  
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
+</td></tr></table>  
+<br/>
+
+# 💻 Tech Stack:
+
+<table><tr><td valign="top" width="50%">
+
+### Frontend
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -34,10 +36,10 @@
 
 </td><td valign="top" width="50%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -50,17 +52,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 
+</td></tr></table>
 
-
-
-
-</td></tr></table>  
-
-<br/>  
-
+<br/>
 
 ## 🌐 Socials:
-### Connect with me  
+
+### Connect with me
+
 <div align="center">
 <a href="https://github.com/jacobo87" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -71,36 +70,34 @@
 <a href="https://instagram.com/jacoazma" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=jacobo87&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jacobo87&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobo87&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>  
+<br/>
 
+## Recent Blog Posts
 
-## Recent Blog Posts  
-  
+<br/>
 
-<br/>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1158952476&cover_image=true&theme=default" /></div>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1158952476&cover_image=true&theme=default" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jacobo87&&style=flat-square" align="center" />
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
@@ -112,4 +109,4 @@
             </a></div>
 <br />
 
-----
+---
