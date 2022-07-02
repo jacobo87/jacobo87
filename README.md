@@ -82,20 +82,6 @@
 
 <br/>
 
-## Recent Blog Posts
-
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1158952476&cover_image=true&theme=default" /></div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jacobo87&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
