@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on [Final project GA](https://github.com/Lyanna666/proyecto-final-GA)
 
-- 🌱 I’m currently learning SQL Server
+- 🌱 I’m currently learning <img style="margin: 10px" src="https://camo.githubusercontent.com/14726342b1a25d6475d3c626d22d56f3d04c308107ff8ccba021f551ce247e28/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6963726f736f66742d73716c2d7365727665722e706e67" alt="SQL" height="50" /> SQL Server.
+
+- 💬 I can't live without seeing those colours in [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
 </td><td valign="top" width="50%">
 
