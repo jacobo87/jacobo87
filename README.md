@@ -11,7 +11,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://th.bing.com/th/id/R.96c8c3ef9b2760ab7c31c93bc7f604ee?rik=pyOn0UjwctAZkA&pid=ImgRaw&r=0" align="center" style="width: 100%" />
 </div>
 
 </td></tr></table>  
