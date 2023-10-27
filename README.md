@@ -4,9 +4,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Final project GA](https://github.com/Lyanna666/proyecto-final-GA)
-
-- 🌱 I’m currently learning <img style="margin: 10px" src="https://camo.githubusercontent.com/14726342b1a25d6475d3c626d22d56f3d04c308107ff8ccba021f551ce247e28/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6963726f736f66742d73716c2d7365727665722e706e67" alt="SQL" height="50" /> SQL Server.
+- 🌱 I’m SQL Server<img style="margin: 10px" src="https://camo.githubusercontent.com/14726342b1a25d6475d3c626d22d56f3d04c308107ff8ccba021f551ce247e28/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6963726f736f66742d73716c2d7365727665722e706e67" alt="SQL" height="50" /> and SharePoint<img style="margin: 10px" src="https://th.bing.com/th/id/R.c47c29f92d85d26fc156563f847200fc?rik=pwYV1KS6%2fUeT2g&pid=ImgRaw&r=0" alt="SP" height="50" /> administrator.
 
 - 💬 I can't live without seeing those colours in [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
